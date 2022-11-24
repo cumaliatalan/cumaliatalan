@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cumali Atalan</h1>
-<h3 align="center"></h3>
+<h3 align="center">iOS Developer and Computer Engineer Student at Marmara University</h3>
 
 - 📫 How to reach me **cumaliatalan.dev@gmail.com**
 
