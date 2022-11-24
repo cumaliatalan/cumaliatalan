@@ -17,4 +17,4 @@ https://platane.github.io/snk/
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cumaliatalan&" alt="cumaliatalan" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cumaliatalan&show_icons=true&locale=en&layout=compact" alt="cumaliatalan" /></p>
-<p><img align="center" src="https://platane.github.io/snk/" alt="cumaliatalan" /></p>
+<p><img align="center" src="https://platane.github.io/snk/?user=cumaliatalan&" alt="cumaliatalan" /></p>
